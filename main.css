@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+html {
+    background-color: #E6E6E6;
+    }
+
+a:link {
+    color: #AAC7D8;
+    text-decoration: none;
+    }
+
+a:visited {
+    color: #AAC7D8;
+    text-decoration: none;
+    }
+
+a:hover {
+    color: #44576D;
+    text-decoration: underline;
+    }
+      
+a:active {
+    color: #44576D;
+    text-decoration: underline;
+    }
+
+body {
+    color: #768A96;
+    font-family: "Georgia", serif;
+    font-size: 30px;
+    }
+
+header {
+    font-family: "Lucida Handwriting", cursive;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px
+    }
+
+h1, h2 {
+    color: #44576D;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;
+    }
+
+nav ul{
+    font-family: "Georgia", serif;
+    font-size: 30px;
+   }
+
+section {
+    background-color: #768A96;
+    }
+
+footer {
+    color: #29353C;
+    font-family: "Times New Roman", Times, serif;}
